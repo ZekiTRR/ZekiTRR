@@ -28,11 +28,13 @@ Interested in reverse engineering, game internals and low‑level software mecha
 
 ---
 
-## 📟 GitHub Stats
+## 📱 GitHub Stats
 
-![ZekiTRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZekiTRR&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekiTRR&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZekiTRR&theme=radical)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZekiTRR&theme=dracula)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZekiTRR&theme=dracula)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZekiTRR&theme=dracula)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZekiTRR&theme=dracula&utcOffset=2)
+![Contribution Chart](https://ghchart.rshah.org/ZekiTRR)
 
 ---
 
