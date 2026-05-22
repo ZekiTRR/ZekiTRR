@@ -17,7 +17,7 @@ Interested in reverse engineering, game internals and low‑level software mecha
 
 ### Reverse Engineering Tools
 
-- IDA Pro
+- IDA
 - Ghidra
 - Cheat Engine
 - x64dbg
