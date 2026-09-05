@@ -1,6 +1,7 @@
 # 👾 Hey there
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 ### Active Arsenal
 ![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
