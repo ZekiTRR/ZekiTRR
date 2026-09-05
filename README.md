@@ -1,10 +1,5 @@
 # 👾 Hey there
 
-> **`Breaking binaries, shifting bits, and hunting for 0xCC.`**
-> Low-level enthusiast diving deep into Windows Internals, RE, and Game Mechanics.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Active Arsenal
