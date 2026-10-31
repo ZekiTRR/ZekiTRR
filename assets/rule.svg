@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="20" viewBox="0 0 1000 20" role="img" aria-label="разделитель">
+  <style>
+    .ln { stroke:#dfe3e7; fill:none }
+    .gf { fill:#2e7d32 }
+    @media (prefers-color-scheme:dark){
+      .ln { stroke:#2f363c }
+      .gf { fill:#7ccb6f }
+    }
+  </style>
+  <line class="ln" x1="0" y1="10" x2="470" y2="10"/>
+  <line class="ln" x1="530" y1="10" x2="1000" y2="10"/>
+  <rect class="gf" x="486" y="8" width="28" height="4" rx="2"/>
+</svg>

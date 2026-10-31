@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Yoko — low-level developer</title>
+  <desc id="desc">Windows user-mode internals: process memory, PE layout, pointer chains, pattern scanning. C++, Qt 6, Win32, x86-64, Rust, CMake.</desc>
+  <style>
+    .bg   { fill:#12151a }
+    .hair { stroke:#272d36; fill:none }
+    .brk  { stroke:#3a4350; fill:none }
+    .tf   { fill:#eef1f4 }
+    .df   { fill:#9aa4b0 }
+    .pill { fill:#181d24; stroke:#2b323c }
+    .pt   { fill:#dfe4ea }
+    .gf   { fill:#7ccb6f }
+    .of   { fill:#ffb74d }
+    text  { font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif; stroke:none }
+    .m    { font-family:"Cascadia Mono",ui-monospace,Consolas,"Liberation Mono",monospace }
+    @media (prefers-color-scheme:light){
+      .bg   { fill:#f6f7f5 }
+      .hair { stroke:#dfe3e6 }
+      .brk  { stroke:#c3cbd2 }
+      .tf   { fill:#191d21 }
+      .df   { fill:#5d6672 }
+      .pill { fill:#ffffff; stroke:#dfe3e6 }
+      .pt   { fill:#242a31 }
+      .gf   { fill:#2e7d32 }
+      .of   { fill:#ef6c00 }
+      .core { stop-opacity:.20 }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="cp"><rect x="0" y="0" width="1000" height="300" rx="18"/></clipPath>
+    <radialGradient id="au1" cx=".17" cy=".12" r=".62">
+      <stop offset="0" class="core" stop-color="#7ccb6f" stop-opacity=".42"/><stop offset=".55" stop-color="#4e8f57" stop-opacity=".12"/><stop offset="1" stop-color="#4e8f57" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="au2" cx=".88" cy=".92" r=".6">
+      <stop offset="0" class="core" stop-color="#ffb74d" stop-opacity=".34"/><stop offset=".5" stop-color="#c9761f" stop-opacity=".10"/><stop offset="1" stop-color="#c9761f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="au3" cx=".52" cy="-.18" r=".55">
+      <stop offset="0" class="core" stop-color="#5fd0a8" stop-opacity=".20"/><stop offset="1" stop-color="#5fd0a8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#cp)">
+    <rect class="bg" x="0" y="0" width="1000" height="300"/>
+    <rect x="0" y="0" width="1000" height="300" fill="url(#au1)"/>
+    <rect x="0" y="0" width="1000" height="300" fill="url(#au2)"/>
+    <rect x="0" y="0" width="1000" height="300" fill="url(#au3)"/>
+  </g>
+  <rect class="hair" x=".5" y=".5" width="999" height="299" rx="18"/>
+
+  <g class="brk" stroke-width="1.4">
+    <path d="M26 44V30h14"/><path d="M974 44V30h-14"/><path d="M26 256v14h14"/><path d="M974 256v14h-14"/>
+  </g>
+
+  <text class="tf" x="491" y="118" font-size="46" font-weight="700" letter-spacing="18" text-anchor="middle">YOKO</text>
+  <rect class="of" x="480" y="134" width="40" height="3" rx="1.5"/>
+  <text class="m df" x="497" y="166" font-size="12.5" letter-spacing="7" text-anchor="middle">LOW-LEVEL DEVELOPER</text>
+  <text class="m df" x="498" y="192" font-size="11.5" letter-spacing="2.4" text-anchor="middle">PROCESS MEMORY · PE LAYOUT · POINTER CHAINS · PATTERN SCANNING</text>
+
+  <g class="pill">
+    <rect x="275.5" y="216.5" width="48" height="32" rx="16"/>
+    <rect x="333.5" y="216.5" width="55" height="32" rx="16"/>
+    <rect x="398.5" y="216.5" width="62" height="32" rx="16"/>
+    <rect x="470.5" y="216.5" width="40" height="32" rx="16"/>
+    <rect x="520.5" y="216.5" width="69" height="32" rx="16"/>
+    <rect x="599.5" y="216.5" width="55" height="32" rx="16"/>
+    <rect x="664.5" y="216.5" width="62" height="32" rx="16"/>
+  </g>
+  <text class="m pt" x="299" y="237" font-size="12" text-anchor="middle">C++</text>
+  <text class="m pt" x="360.5" y="237" font-size="12" text-anchor="middle">Qt 6</text>
+  <text class="m pt" x="429" y="237" font-size="12" text-anchor="middle">Win32</text>
+  <text class="m pt" x="490" y="237" font-size="12" text-anchor="middle">PE</text>
+  <text class="m pt" x="554.5" y="237" font-size="12" text-anchor="middle">x86-64</text>
+  <text class="m pt" x="626.5" y="237" font-size="12" text-anchor="middle">Rust</text>
+  <text class="m pt" x="695" y="237" font-size="12" text-anchor="middle">CMake</text>
+
+  <line class="hair" x1="36" y1="268" x2="964" y2="268"/>
+  <text class="m df" x="36" y="286" font-size="10.5" letter-spacing=".8">github.com/ZekiTRR</text>
+  <text class="m gf" x="500" y="286" font-size="10.5" letter-spacing="2.6" text-anchor="middle">USER MODE ONLY · SINCE 2020</text>
+  <text class="m df" x="964" y="286" font-size="10.5" letter-spacing=".8" text-anchor="end">gitlab.com/yokoshiper</text>
+</svg>
