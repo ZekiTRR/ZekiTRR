@@ -52,27 +52,27 @@
     <path d="M26 44V30h14"/><path d="M974 44V30h-14"/><path d="M26 256v14h14"/><path d="M974 256v14h-14"/>
   </g>
 
-  <text class="tf" x="500" y="118" font-size="46" font-weight="700" textLength="186" lengthAdjust="spacing" text-anchor="middle">YOKO</text>
+  <text class="tf" x="500.5" y="118" font-size="46" font-weight="700" textLength="186" lengthAdjust="spacing" text-anchor="middle">YOKO</text>
   <rect class="of" x="480" y="134" width="40" height="3" rx="1.5"/>
   <text class="m df" x="500" y="166" font-size="12.5" textLength="265" lengthAdjust="spacing" text-anchor="middle">LOW-LEVEL DEVELOPER</text>
   <text class="m df" x="500" y="192" font-size="11.5" textLength="564" lengthAdjust="spacing" text-anchor="middle">PROCESS MEMORY · PE LAYOUT · POINTER CHAINS · PATTERN SCANNING</text>
 
   <g class="pill">
-    <rect x="275.5" y="216.5" width="48" height="32" rx="16"/>
-    <rect x="333.5" y="216.5" width="55" height="32" rx="16"/>
-    <rect x="398.5" y="216.5" width="62" height="32" rx="16"/>
-    <rect x="470.5" y="216.5" width="40" height="32" rx="16"/>
-    <rect x="520.5" y="216.5" width="69" height="32" rx="16"/>
-    <rect x="599.5" y="216.5" width="55" height="32" rx="16"/>
-    <rect x="664.5" y="216.5" width="62" height="32" rx="16"/>
+    <rect x="274.5" y="216.5" width="48" height="32" rx="16"/>
+    <rect x="332.5" y="216.5" width="55" height="32" rx="16"/>
+    <rect x="397.5" y="216.5" width="62" height="32" rx="16"/>
+    <rect x="469.5" y="216.5" width="40" height="32" rx="16"/>
+    <rect x="519.5" y="216.5" width="69" height="32" rx="16"/>
+    <rect x="598.5" y="216.5" width="55" height="32" rx="16"/>
+    <rect x="663.5" y="216.5" width="62" height="32" rx="16"/>
   </g>
-  <text class="m pt" x="299" y="237" font-size="12" text-anchor="middle">C++</text>
-  <text class="m pt" x="360.5" y="237" font-size="12" text-anchor="middle">Qt 6</text>
-  <text class="m pt" x="429" y="237" font-size="12" text-anchor="middle">Win32</text>
-  <text class="m pt" x="490" y="237" font-size="12" text-anchor="middle">PE</text>
-  <text class="m pt" x="554.5" y="237" font-size="12" text-anchor="middle">x86-64</text>
-  <text class="m pt" x="626.5" y="237" font-size="12" text-anchor="middle">Rust</text>
-  <text class="m pt" x="695" y="237" font-size="12" text-anchor="middle">CMake</text>
+  <text class="m pt" x="298" y="237" font-size="12" text-anchor="middle">C++</text>
+  <text class="m pt" x="359.5" y="237" font-size="12" text-anchor="middle">Qt 6</text>
+  <text class="m pt" x="428" y="237" font-size="12" text-anchor="middle">Win32</text>
+  <text class="m pt" x="489" y="237" font-size="12" text-anchor="middle">PE</text>
+  <text class="m pt" x="553.5" y="237" font-size="12" text-anchor="middle">x86-64</text>
+  <text class="m pt" x="625.5" y="237" font-size="12" text-anchor="middle">Rust</text>
+  <text class="m pt" x="694" y="237" font-size="12" text-anchor="middle">CMake</text>
 
   <line class="hair" x1="36" y1="268" x2="964" y2="268"/>
   <text class="m df" x="36" y="286" font-size="10.5" letter-spacing=".8">github.com/ZekiTRR</text>
