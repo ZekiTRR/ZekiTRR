@@ -52,10 +52,10 @@
     <path d="M26 44V30h14"/><path d="M974 44V30h-14"/><path d="M26 256v14h14"/><path d="M974 256v14h-14"/>
   </g>
 
-  <text class="tf" x="491" y="118" font-size="46" font-weight="700" letter-spacing="18" text-anchor="middle">YOKO</text>
+  <text class="tf" x="500" y="118" font-size="46" font-weight="700" textLength="186" lengthAdjust="spacing" text-anchor="middle">YOKO</text>
   <rect class="of" x="480" y="134" width="40" height="3" rx="1.5"/>
-  <text class="m df" x="497" y="166" font-size="12.5" letter-spacing="7" text-anchor="middle">LOW-LEVEL DEVELOPER</text>
-  <text class="m df" x="498" y="192" font-size="11.5" letter-spacing="2.4" text-anchor="middle">PROCESS MEMORY · PE LAYOUT · POINTER CHAINS · PATTERN SCANNING</text>
+  <text class="m df" x="500" y="166" font-size="12.5" textLength="265" lengthAdjust="spacing" text-anchor="middle">LOW-LEVEL DEVELOPER</text>
+  <text class="m df" x="500" y="192" font-size="11.5" textLength="564" lengthAdjust="spacing" text-anchor="middle">PROCESS MEMORY · PE LAYOUT · POINTER CHAINS · PATTERN SCANNING</text>
 
   <g class="pill">
     <rect x="275.5" y="216.5" width="48" height="32" rx="16"/>
@@ -76,6 +76,6 @@
 
   <line class="hair" x1="36" y1="268" x2="964" y2="268"/>
   <text class="m df" x="36" y="286" font-size="10.5" letter-spacing=".8">github.com/ZekiTRR</text>
-  <text class="m gf" x="500" y="286" font-size="10.5" letter-spacing="2.6" text-anchor="middle">USER MODE ONLY · SINCE 2020</text>
+  <text class="m gf" x="500" y="286" font-size="10.5" textLength="234" lengthAdjust="spacing" text-anchor="middle">USER MODE ONLY · SINCE 2020</text>
   <text class="m df" x="964" y="286" font-size="10.5" letter-spacing=".8" text-anchor="end">gitlab.com/yokoshiper</text>
 </svg>
